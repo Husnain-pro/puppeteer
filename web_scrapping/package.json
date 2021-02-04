@@ -1,0 +1,16 @@
+{
+  "name": "scrappind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapper.js",
+  "scripts": {
+    "start": "nodemon scrapper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "puppeteer": "^6.0.0"
+  }
+}

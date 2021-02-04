@@ -1,0 +1,15 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fb_login.js",
+  "scripts": {
+    "start": "nodemon fb_login.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^7.0.0"
+  }
+}
